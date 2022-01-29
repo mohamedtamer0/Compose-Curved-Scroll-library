@@ -1,9 +1,11 @@
 <h1 align="center">
 Compose-Curved-Scroll-library
-[![](https://jitpack.io/v/mohamedtamer0/Compose-Curved-Scroll-library.svg)](https://jitpack.io/#mohamedtamer0/Compose-Curved-Scroll-library)
 </h1>
 
+---
+[![](https://jitpack.io/v/mohamedtamer0/Compose-Curved-Scroll-library.svg)](https://jitpack.io/#mohamedtamer0/Compose-Curved-Scroll-library)
 
+---
 
 Compose Curved-Scroll is an Android Jetpack Compose library made with ❤️, it's a simple yet customizable implementation for a Curved-Scroll in Jetpack Compose.
 
