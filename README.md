@@ -15,6 +15,11 @@ Compose Curved-Scroll is an Android Jetpack Compose library made with ❤️, it
 
 Dark theme            |  Light theme
 :-------------------------:|:-------------------------:
+<img src="https://user-images.githubusercontent.com/51374446/151676555-a5f18e98-b87a-4df7-81d1-0615a996eba5.gif" width="200" height="400" />  | <img src="https://user-images.githubusercontent.com/51374446/151676571-f2eb3c35-cf95-4737-94af-605847831ad7.gif" width="200" height="400" />
+
+
+Dark theme            |  Light theme
+:-------------------------:|:-------------------------:
 <img src="https://user-images.githubusercontent.com/51374446/151675416-da75b202-63e4-43d1-9e90-8ad9674f7bf6.jpg" width="200" height="400" />  | <img src="https://user-images.githubusercontent.com/51374446/151675464-228e20bf-1449-48cd-a49d-09d0532fed9a.jpg" width="200" height="400" />
 
 Dark theme            |  Light theme
