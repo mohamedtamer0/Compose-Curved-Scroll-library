@@ -128,4 +128,9 @@ Image(
         .clip(RoundedCornerShape(20.dp))
 )
 ```
+---
+
+## License
+```
+```
 
