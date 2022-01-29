@@ -9,6 +9,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.Layout
 import androidx.compose.ui.layout.onSizeChanged
@@ -19,6 +20,7 @@ import kotlin.math.PI
 import kotlin.math.abs
 import kotlin.math.cos
 
+@OptIn(ExperimentalComposeUiApi::class)
 @Composable
 fun CurvedScrollView(
     itemCount: Int,
