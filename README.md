@@ -1,11 +1,11 @@
 <h1 align="center">
-Compose-Curved-Scroll-library
+Compose Curved Scroll library
 </h1>
 
----
+
 [![](https://jitpack.io/v/mohamedtamer0/Compose-Curved-Scroll-library.svg)](https://jitpack.io/#mohamedtamer0/Compose-Curved-Scroll-library)
 
----
+
 
 Compose Curved-Scroll is an Android Jetpack Compose library made with ❤️, it's a simple yet customizable implementation for a Curved-Scroll in Jetpack Compose.
 
@@ -32,10 +32,10 @@ Dark theme            |  Light theme
 
 <br/>
 
----
-## Installation
 
-### - Step 1- Add jitpack in your project build.gradle
+# Installation
+
+## Step 1: Add jitpack in your `build.gradle`(project)
 ```groovy
 allprojects {
     repositories {
@@ -45,7 +45,7 @@ allprojects {
 }
 ```
 
-### - Step 2- Add the dependency in your app build.gradle
+## Step 2: Add the dependency in your `build.gradle`(app)
 
 ```groovy
 dependencies {
@@ -54,9 +54,8 @@ dependencies {
 }
 ```
 
-### - Step 3- Optional
-
-#### in some **Gradle** :stuck_out_tongue_closed_eyes: versions in Android studio you might need to add to your settings.gradle
+## Step 3: Optional
+In some **Gradle** :stuck_out_tongue_closed_eyes: versions in Android studio you might need to add to your settings.gradle
 ```groovy
 repositories {
     ...
@@ -65,11 +64,9 @@ repositories {
 ```
 
 
-<br/>
+# Getting Started
 
----
-# Use
-## You can Add Infinite number of items 
+## Prepare your data: you can Add Infinite number of items 
 
 ```Kotlin
 //List of item add
@@ -135,9 +132,10 @@ Image(
         .clip(RoundedCornerShape(20.dp))
 )
 ```
----
 
-## License
+
+
+# License
 ```
 MIT License
 
