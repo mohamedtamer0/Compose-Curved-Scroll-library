@@ -2,9 +2,12 @@
 Compose Curved Scroll library
 </h1>
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51374446/152547954-7aae4c00-0e59-4b97-822a-9d1f3a2075d4.png" alt="AndroidLibray"/>
+</p>
 
 [![](https://jitpack.io/v/mohamedtamer0/Compose-Curved-Scroll-library.svg)](https://jitpack.io/#mohamedtamer0/Compose-Curved-Scroll-library)
-
+![Message](https://img.shields.io/static/v1?label=Android&message=Library&color=green)
 
 
 Compose Curved-Scroll is an Android Jetpack Compose library made with ❤️, it's a simple yet customizable implementation for a Curved-Scroll in Jetpack Compose.
