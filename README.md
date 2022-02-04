@@ -40,10 +40,12 @@ Dark theme            |  Light theme
 
 ## Step 1: Add jitpack in your `build.gradle`(project)
 ```groovy
-allprojects {
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
-        ...
-        maven { url "https://jitpack.io" }
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
     }
 }
 ```
