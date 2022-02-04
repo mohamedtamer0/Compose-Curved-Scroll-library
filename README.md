@@ -38,7 +38,7 @@ Dark theme            |  Light theme
 
 # Installation
 
-## Step 1: Add jitpack in your `build.gradle`(project)
+## Step 1: Add jitpack in your `settings.gradle`(project)
 ```groovy
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
